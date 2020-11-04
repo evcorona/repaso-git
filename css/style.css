@@ -1,0 +1,21 @@
+.container-flex {
+  background-color: pink;
+}
+
+.container-flex .square {
+  color: white;
+  background-color: #ccc;
+}
+
+.container-flex .square p.text-white {
+  color: black;
+}
+
+.container-flex .square .text-white {
+  color: black;
+}
+
+.container-flex .square.item-1 {
+  color: black;
+}
+/*# sourceMappingURL=style.css.map */
